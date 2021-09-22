@@ -9,7 +9,7 @@ name = "pypi"
 
 
 [packages]
-Django = "==3.0.2"
+Django = "==3.1.13"
 gunicorn = "==19.7.1"
 whitenoise= "==3.3.1"
 
